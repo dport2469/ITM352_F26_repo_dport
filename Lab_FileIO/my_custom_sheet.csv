@@ -1,0 +1,6 @@
+Employee_ID,Age,Annual_Salary,Department_Code,Years_at_Company,,,
+EMP101,29,"$85,000.00",IT_CONS,3,,,
+EMP102,34,"$112,500.00",IT_CONS,6,,,
+EMP103,45,"$138,000.00",SEC_OPS,10,,,
+EMP104,26,"$72,000.00",CLOUD_ARCH,1,,,
+EMP105,38,"$98,000.00",DATA_ANLY,4,,,

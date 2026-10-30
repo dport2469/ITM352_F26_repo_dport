@@ -1,0 +1,19 @@
+{
+  "servers": {
+    "alu4-itm352": {
+      "type": "http",
+      "url": "https://mcp-server-a3furuifgq-uc.a.run.app",
+      "headers": {
+        "Authorization": "Bearer ${input:alu4-itm352-token}"
+      }
+    }
+  },
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "alu4-itm352-token",
+      "description": "Bearer token for the alu4-itm352 MCP server",
+      "password": true
+    }
+  ]
+}
